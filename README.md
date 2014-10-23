@@ -2,16 +2,11 @@ HacktheUniverse
 ===============
 
 Repo for AMNH astrophysics hackathon
-
-AMNH presents Hack the Universe, the launch of BridgeUp: STEM
-
-When: November 7 - 8, 2014
-
-Time: 6pm Friday – 9pm Saturday
-
-Location: Hall of the Universe, American Museum of Natural History
-
-Theme: Astrophysics and the Digital Universe
+<p>AMNH presents Hack the Universe, the launch of BridgeUp: STEM
+<br>When: November 7 - 8, 2014
+<br>Time: 6pm Friday – 9pm Saturday
+<br>Location: Hall of the Universe, American Museum of Natural History
+<br>Theme: Astrophysics and the Digital Universe
 
 AMNH is hosting its first-ever hackathon along with an afternoon of lightning talks and hands-on activities focused on the intersection of computer science and astrophysics. Dubbed “Hack the Universe,” this is the launch event of BridgeUp: STEM, a new educational program focused on computer science for science and funded by a generous grant from the Helen Gurley Brown Trust.  The event will invite the public to build applications for the Digital Universe data set starting Friday evening and working overnight. Demos will be part of a cocktail reception at the conclusion of the event on Saturday evening. Saturday afternoon will also feature lighting talks and hands-on activities for youth to introduce them to the applications of computer science and data visualization in the study of the stars.
  
